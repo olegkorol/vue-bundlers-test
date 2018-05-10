@@ -20,7 +20,7 @@ yarn prcl
 
 Webpack:
 
-![webpack](https://downloader.disk.yandex.ru/preview/a5967476d0d61ab1d857157c95aeec9e5ff37e8ffb597353083a329cc48e4601/5af4e56b/DA1hVt53wVJxTFnHd1qOES7XLpeRL_dxkNrok8oF-v1IbsNJuV1H4JKDg4wHXPDdlQqol0OGJFkXvQHYst9ybw%3D%3D?uid=0&filename=2018-05-10_22-22-26.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=2048x2048)
+![webpack](https://downloader.disk.yandex.ru/preview/ceaab6bfc56ff60cbacc65d8aabe1c11765b36981a37e58f662093170395c948/5af4e606/DA1hVt53wVJxTFnHd1qOEW6tEEn2tcNVQWbpp0M8EuttPvU3xORB4AFvBqno8LcRxb5v-iZaSMHlteRJ7S1e0A%3D%3D?uid=0&filename=2018-05-10_22-26-05.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=2048x2048)
 
 Rollup:
 
