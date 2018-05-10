@@ -28,4 +28,4 @@ Rollup (7KB):
 
 Parcel (66KB):
 
-![parcel](https://downloader.disk.yandex.ru/preview/ceaab6bfc56ff60cbacc65d8aabe1c11765b36981a37e58f662093170395c948/5af4e606/DA1hVt53wVJxTFnHd1qOEW6tEEn2tcNVQWbpp0M8EuttPvU3xORB4AFvBqno8LcRxb5v-iZaSMHlteRJ7S1e0A%3D%3D?uid=0&filename=2018-05-10_22-26-05.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=2048x2048)
+![parcel](https://downloader.disk.yandex.ru/preview/94231cf42e64dea5878e4d6abfbc17c1b0b2ab5522a753647b6e09a790561653/5af4e84d/DA1hVt53wVJxTFnHd1qOEQw9VMQTLQzp_9GjYa1gqUGwu7R-or_RfqIzVQmW3pEeGT7ndu6yNTwvQ9HR9u-mmA%3D%3D?uid=0&filename=2018-05-10_22-46-35.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&tknv=v2&size=2048x2048)
