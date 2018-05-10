@@ -6,7 +6,7 @@
   "license": "MIT",
   "private": true,
   "scripts": {
-    "prcl": "cross-env NODE_ENV=production parcel index.html",
+    "prcl": "cross-env NODE_ENV=production parcel build index.html",
     "rllp": "cross-env NODE_ENV=production rollup -c",
     "wbpck": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
